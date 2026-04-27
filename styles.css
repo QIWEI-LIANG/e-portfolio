@@ -109,6 +109,7 @@ img {
   min-height: 96svh;
   display: grid;
   align-items: end;
+  background: var(--paper) url("/e-portfolio/assets/portfolio-hero.png") center / cover no-repeat;
   overflow: hidden;
 }
 
